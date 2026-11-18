@@ -486,15 +486,10 @@
           "settings": {
             "heading": "Why Customers Love Organic Snooze",
             "show_pagination": true,
-            "video_1": "shopify://files/videos/UGC-Katherine-June-1.mp4",
             "caption_1": "",
-            "video_2": "shopify://files/videos/instagram-video_a48594d2-3157-4b3d-9822-e4139a4b3c26.mp4",
             "caption_2": "",
-            "video_3": "shopify://files/videos/instagram-video_8e990a33-eb47-475b-a442-768cc8ca7bbc.mp4",
             "caption_3": "",
-            "video_4": "shopify://files/videos/instagram-video_92d7ea93-a816-4e76-9019-afc7c1cfda07.mp4",
             "caption_4": "",
-            "video_5": "shopify://files/videos/instagram-video_9835e004-4cad-4a2f-a23d-e66d19addd26.mp4",
             "caption_5": "",
             "caption_6": "",
             "margin_top": 40,
@@ -1323,7 +1318,6 @@
           "type": "benefit",
           "settings": {
             "media_type": "video",
-            "video": "shopify://files/videos/4153241-uhd_2160_4096_25fps.mp4",
             "title": "Zero Airborne VOCs",
             "description": "<p>Sleep in a room that smells like nothing at all.</p>",
             "tag": "Side",
@@ -1335,7 +1329,6 @@
           "type": "benefit",
           "settings": {
             "media_type": "video",
-            "video": "shopify://files/videos/7234147-uhd_2160_3840_30fps.mp4",
             "title": "Sleeps Cooler",
             "description": "<p>Wool naturally regulates temperature. Perforated latex never traps heat.</p>",
             "tag": "Side",
@@ -1347,7 +1340,6 @@
           "type": "benefit",
           "settings": {
             "media_type": "video",
-            "video": "shopify://files/videos/6195937-uhd_2160_3840_25fps.mp4",
             "title": "Real Pressure Relief",
             "description": "<p>Latex lifts and contours so hips and shoulders stop aching.</p>",
             "tag": "Side",
@@ -1359,7 +1351,6 @@
           "type": "benefit",
           "settings": {
             "media_type": "video",
-            "video": "shopify://files/videos/6195941-uhd_2160_3840_25fps.mp4",
             "title": "Outlasts Foam",
             "description": "<p>Add superior support and limited motion shift from coils</p>",
             "tag": "Side",
@@ -1443,7 +1434,6 @@
         "eyebrow": "Real sleepers, real mornings",
         "heading": "Why Gary Brecka Created a Sleep Company",
         "media_type": "video",
-        "video": "shopify://files/videos/instagram-video-3fca1c1a-9512-49d9-a544-653ceebeebe4.mp4",
         "video_autoplay": false,
         "show_play_icon": true,
         "poster": "shopify://shop_images/founder-video-poster.png",

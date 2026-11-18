@@ -149,7 +149,6 @@
         "enable_video_button": false,
         "video_autoplay": true,
         "video_source": "shopify_hosted",
-        "shopify_video": "shopify://files/videos/SNO_3_WIDE_FINAL_NOCTA_576ae29e-f7ad-42a2-81e1-2765a81eda8e.mov",
         "video_url": "",
         "custom_video_url": "",
         "overlay_color": "#0000006e",
@@ -540,7 +539,6 @@
         "review_kUBQmh": {
           "type": "review",
           "settings": {
-            "video": "shopify://files/videos/Recover while you sleep.mp4",
             "overlay_text": "",
             "review_text": "",
             "author": "Gary Brecka",
@@ -554,7 +552,6 @@
         "review_pqAPxE": {
           "type": "review",
           "settings": {
-            "video": "shopify://files/videos/instagram-video-436b7f7b-2c5a-482d-9c5c-359b52678a40.mp4",
             "overlay_text": "",
             "review_text": "",
             "author": "Kyndal",
@@ -568,7 +565,6 @@
         "review_kaRtEy": {
           "type": "review",
           "settings": {
-            "video": "shopify://files/videos/instagram-video_e8b26256-9aaa-4428-b2d4-b9640655d5ba.mp4",
             "overlay_text": "",
             "review_text": "",
             "author": "Gary Brecka",
@@ -582,7 +578,6 @@
         "review_AifAGb": {
           "type": "review",
           "settings": {
-            "video": "shopify://files/videos/UGC-Katherine-June-1.mp4",
             "overlay_text": "",
             "review_text": "",
             "author": "Rivera",
@@ -596,7 +591,6 @@
         "review_HCRQgx": {
           "type": "review",
           "settings": {
-            "video": "shopify://files/videos/instagram-video_f843f4ed-8cb5-43e5-8358-a9fbb7de1365.mp4",
             "overlay_text": "",
             "review_text": "",
             "author": "Gary Brecka",
@@ -610,7 +604,6 @@
         "review_9FTVW8": {
           "type": "review",
           "settings": {
-            "video": "shopify://files/videos/instagram-video_2a2998f3-252a-4221-b6c8-7259dca9f071.mp4",
             "overlay_text": "",
             "review_text": "",
             "author": "Katherine",

@@ -56,7 +56,6 @@
         "video_slide_rx3Bdm": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/the_ultimate_snooze_by_gary_brecka_fav_EmilyB_TheOrgaSnoo_5cc2352c (1).mov.mp4",
             "overlay_text": "",
             "caption": ""
           }
@@ -64,7 +63,6 @@
         "video_slide_3AByYe": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/the_ultimate_snooze_by_gary_brecka_fav_KelseyT_7cdb78c2 (1).mov.mp4",
             "overlay_text": "",
             "caption": ""
           }
@@ -72,7 +70,6 @@
         "video_slide_xRHpXJ": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/the_ultimate_snooze_by_gary_brecka_BrittanyP_PillOrgaLate_d99ad2fc.mp4.mp4",
             "overlay_text": "",
             "caption": ""
           }
@@ -80,7 +77,6 @@
         "video_slide_7fdbyt": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/the_ultimate_snooze_by_gary_brecka_fav_KelseyT_7cdb78c2 (1).mov.mp4",
             "overlay_text": "",
             "caption": ""
           }
@@ -88,7 +84,6 @@
         "video_slide_tbbLGP": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/the_ultimate_snooze_by_gary_brecka_fav_EmilyB_TheOrgaSnoo_5cc2352c (1).mov.mp4",
             "overlay_text": "",
             "caption": ""
           }
@@ -96,7 +91,6 @@
         "video_slide_Yr7B8W": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/the_ultimate_snooze_by_gary_brecka_BrittanyP_PillOrgaLate_d99ad2fc.mp4.mp4",
             "overlay_text": "",
             "caption": ""
           }
@@ -186,7 +180,6 @@
       ],
       "name": "t:sections.nw-trade-in-video-explainer.name",
       "settings": {
-        "video": "shopify://files/videos/Trade In Your Toxic Mattress for 300 Off an Organic One.mp4.mp4",
         "video_overlay_title": "The Toxin Trade-In, Explained",
         "video_duration": "0:58",
         "video_width_desktop": 380,
@@ -285,7 +278,6 @@
         "video_slide_DbbkKJ": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/Trade In Your Toxic Mattress for 300 Off an Organic One.mp4.mp4",
             "handle": "",
             "quote": ""
           }
@@ -293,7 +285,6 @@
         "video_slide_fnzEDV": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/the_ultimate_snooze_by_gary_brecka_fav_KelseyT_7cdb78c2 (1).mov.mp4",
             "handle": "",
             "quote": ""
           }
@@ -301,7 +292,6 @@
         "video_slide_xxPBY3": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/VIDEO 8.mp4",
             "handle": "",
             "quote": ""
           }
@@ -309,7 +299,6 @@
         "video_slide_Yq7QQE": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/instagram-video-84058dd4-61f1-47cd-baf2-79f7f84b8150.mp4",
             "handle": "@customer",
             "quote": "I had no idea my old mattress had a law tag — this made trade-in so easy."
           }
@@ -317,7 +306,6 @@
         "video_slide_AJPfpj": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/Trade In Your Toxic Mattress for 300 Off an Organic One.mp4.mp4",
             "handle": "",
             "quote": ""
           }
@@ -325,7 +313,6 @@
         "video_slide_Ln6h7y": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/the_ultimate_snooze_by_gary_brecka_fav_KelseyT_7cdb78c2 (1).mov.mp4",
             "handle": "",
             "quote": ""
           }
@@ -333,7 +320,6 @@
         "video_slide_aCEYhN": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/instagram-video-84058dd4-61f1-47cd-baf2-79f7f84b8150.mp4",
             "handle": "@customer",
             "quote": "I had no idea my old mattress had a law tag — this made trade-in so easy."
           }
@@ -341,7 +327,6 @@
         "video_slide_cFMaM3": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/Trade In Your Toxic Mattress for 300 Off an Organic One.mp4.mp4",
             "handle": "",
             "quote": ""
           }
@@ -349,7 +334,6 @@
         "video_slide_eVmhk4": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/the_ultimate_snooze_by_gary_brecka_fav_KelseyT_7cdb78c2 (1).mov.mp4",
             "handle": "",
             "quote": ""
           }
@@ -509,7 +493,6 @@
       ],
       "name": "t:sections.nw-trade-in-video-explainer.name",
       "settings": {
-        "video": "shopify://files/videos/gary-longform-mashup-2mov-1_7AbgC3E8.mp4",
         "video_overlay_title": "The Toxin Trade-In, Explained",
         "video_duration": "0:58",
         "video_width_desktop": 380,

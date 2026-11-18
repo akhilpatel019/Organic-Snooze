@@ -411,14 +411,10 @@
           "settings": {
             "heading": "Why Customers Love Ultimate Snooze",
             "show_pagination": true,
-            "video_1": "shopify://files/videos/Alexis Lessard - testimonial.mov",
             "caption_1": "",
-            "video_2": "shopify://files/videos/TUS-Chad Finchum-UGC2.mp4",
             "caption_2": "",
             "caption_3": "",
-            "video_4": "shopify://files/videos/TUS Pillow Creative (1).mp4",
             "caption_4": "",
-            "video_5": "shopify://files/videos/instagram-video_9835e004-4cad-4a2f-a23d-e66d19addd26.mp4",
             "caption_5": "",
             "caption_6": "",
             "margin_top": 40,
@@ -747,7 +743,6 @@
           "settings": {
             "media_type": "image",
             "image": "shopify://shop_images/Frame_2147238751_1.png",
-            "video": "shopify://files/videos/4153241-uhd_2160_4096_25fps.mp4",
             "title": "High/Firm",
             "description": "<p>Good for broad shoulder side sleepers</p>",
             "tag": "Side",
@@ -760,7 +755,6 @@
           "settings": {
             "media_type": "image",
             "image": "shopify://shop_images/Frame_2147238751-1_1.png",
-            "video": "shopify://files/videos/7234147-uhd_2160_3840_30fps.mp4",
             "title": "Medium/Balanced",
             "description": "<p>Great for side and back sleepers</p>",
             "tag": "Combination",
@@ -773,7 +767,6 @@
           "settings": {
             "media_type": "image",
             "image": "shopify://shop_images/Frame_2147238751-2_1.png",
-            "video": "shopify://files/videos/6195937-uhd_2160_3840_25fps.mp4",
             "title": "Low/Plush",
             "description": "<p>Great for back and stomach sleepers or low loft lovers.</p>",
             "tag": "Back",
@@ -857,7 +850,6 @@
         "eyebrow": "",
         "heading": "What’s Inside Your Pillow Matters.",
         "media_type": "video",
-        "video": "shopify://files/videos/Gary horizontal pillow longform-WEB.mp4",
         "video_autoplay": false,
         "show_play_icon": true,
         "poster": "shopify://shop_images/Frame_48101000.png",

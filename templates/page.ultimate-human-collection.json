@@ -169,7 +169,6 @@
         "eyebrow": "",
         "heading": "The Missing Piece In Gary Brecka's Sleep Protocol.",
         "media_type": "video",
-        "video": "shopify://files/videos/Gary Longform Mashup-2.mov",
         "video_autoplay": false,
         "show_play_icon": true,
         "poster": "shopify://shop_images/Frame_48101000.png",
@@ -504,7 +503,6 @@
         "step_line_fill_color": "#ffffff",
         "video_icon_color": "#ffffff",
         "media_type": "video",
-        "video": "shopify://files/videos/Unlock Your Potential_ The Power of Sleep for Health.mp4",
         "video_autoplay": false,
         "show_play_icon": true,
         "video_poster": "shopify://shop_images/Rectangle_487.png",
@@ -687,7 +685,6 @@
         "content_panel_heading_color": "#ffffff",
         "content_panel_description_color": "#ffffff",
         "media_type": "video",
-        "video": "shopify://files/videos/Short WEB - Foam Comparison NO USDA Organic Final (2).mov",
         "video_autoplay": false,
         "show_play_icon": true,
         "video_poster": "shopify://shop_images/Hero_Image_1.png",
@@ -1672,7 +1669,6 @@
         "review_crCc8L": {
           "type": "review",
           "settings": {
-            "video": "shopify://files/videos/instagram-video_084d28ca-cd56-4532-afad-b28082c9480c.mp4",
             "poster": "shopify://shop_images/image_19_1.png",
             "overlay_text": "",
             "review_text": "",
@@ -1687,7 +1683,6 @@
         "review_mPVeaE": {
           "type": "review",
           "settings": {
-            "video": "shopify://files/videos/UGC-Katherine-June-1.mp4",
             "overlay_text": "",
             "review_text": "",
             "author": "Katherine",
@@ -1702,7 +1697,6 @@
         "review_jRhNer": {
           "type": "review",
           "settings": {
-            "video": "shopify://files/videos/designed-to-work-togetther (1).mp4",
             "poster": "shopify://shop_images/image_17_1.png",
             "overlay_text": "",
             "review_text": "",
@@ -1718,7 +1712,6 @@
         "review_rk6FPg": {
           "type": "review",
           "settings": {
-            "video": "shopify://files/videos/instagram-video_a03621c5-146a-43c2-a998-2db92a74a17b.mp4",
             "overlay_text": "",
             "review_text": "",
             "author": "Katherine",
@@ -1733,7 +1726,6 @@
         "review_dmVqYa": {
           "type": "review",
           "settings": {
-            "video": "shopify://files/videos/instagram-video_8e990a33-eb47-475b-a442-768cc8ca7bbc.mp4",
             "overlay_text": "",
             "review_text": "",
             "author": "Rivera",

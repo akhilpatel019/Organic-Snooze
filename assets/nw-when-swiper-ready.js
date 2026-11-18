@@ -7,7 +7,7 @@ window.nwWhenSwiperReady = function (callback, timeoutMs) {
     callback();
     return;
   }
-
+                                        
   var startedAt = Date.now();
 
   (function poll() {
