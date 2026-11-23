@@ -23,8 +23,8 @@
     "nw_pcard_btn_bg": "#cc926a",
     "nw_pcard_btn_bg_hover": "#b57d57",
     "nw_pcard_btn_text": "#ffffff",
-    "logo": "shopify://shop_images/Ultimate_Snooze_-_Logo_-_Black_1.png",
-    "logo_width": 240,
+    "logo": "shopify://shop_images/Ultimate_Snooze_-_Logo_-_Black_1.jxl",
+    "logo_width": 300,
     "favicon": "shopify://shop_images/ultimate_snooze_favicon.png",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
@@ -165,108 +165,6 @@
       }
     },
     "content_for_index": [],
-    "blocks": {
-      "10840395464443086010": {
-        "type": "shopify://apps/alia/blocks/customer-app-frame/51f1d398-3e41-44da-b81e-defd5804b292",
-        "disabled": false,
-        "settings": {}
-      },
-      "6174324309569838175": {
-        "type": "shopify://apps/smile-io/blocks/smile-shopify-app/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
-        "disabled": false,
-        "settings": {}
-      },
-      "2200952712151285029": {
-        "type": "shopify://apps/microsoft-clarity/blocks/brandAgents_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea",
-        "disabled": false,
-        "settings": {}
-      },
-      "2567389343055140935": {
-        "type": "shopify://apps/microsoft-clarity/blocks/clarity_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea",
-        "disabled": false,
-        "settings": {}
-      },
-      "14060646107696862457": {
-        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {}
-      },
-      "855628211100114053": {
-        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {}
-      },
-      "4550790387604203027": {
-        "type": "shopify://apps/cwill-returns/blocks/app.embed/129d97fb-4680-4d86-bac4-b13c4bacb6f4",
-        "disabled": true,
-        "settings": {}
-      },
-      "17676059084223943535": {
-        "type": "shopify://apps/triplewhale/blocks/triple_pixel_snippet/483d496b-3f1a-4609-aea7-8eee3b6b7a2a",
-        "disabled": false,
-        "settings": {}
-      },
-      "5057006142565981955": {
-        "type": "shopify://apps/affirm-pay-over-time-messaging/blocks/cart-drawer-embed-block/6dce54be-130d-4d13-9636-1e8f611b3071",
-        "disabled": false,
-        "settings": {
-          "logo_align_drawer": "left",
-          "font_size_drawer": 16,
-          "logo_color_drawer": "blue",
-          "logo_type_drawer": "logo",
-          "public_api_key_drawer": "",
-          "cart_drawer_selector": "",
-          "cart_drawer_total_selector": "",
-          "add_to_cart_selector": "",
-          "adjacent_element_selector": ""
-        }
-      },
-      "9880403401104739693": {
-        "type": "shopify://apps/sparklayer-wholesale/blocks/sparklayer_core_script/019bbd73-3010-74e2-b9bd-86c9cb3ee550",
-        "disabled": false,
-        "settings": {
-          "css-variables": "",
-          "css-display-none": ""
-        }
-      },
-      "14952540001915115444": {
-        "type": "shopify://apps/upcart-cart-drawer/blocks/app-embed/af3da5fb-f5f7-40ec-8273-41bf50059d4b",
-        "disabled": false,
-        "settings": {}
-      },
-      "12446145700687735748": {
-        "type": "shopify://apps/nw-ultimate-snooze-bundles/blocks/kit/01a0e2cc-18cc-7f11-97f3-0e082ec14e7f",
-        "disabled": false,
-        "settings": {}
-      },
-      "8023178096671368477": {
-        "type": "shopify://apps/smart-discounts/blocks/embed/019d1c1c-2c4b-704e-be88-ea7fd20c9afb",
-        "disabled": false,
-        "settings": {}
-      },
-      "15683396631634586217": {
-        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
-        "disabled": true,
-        "settings": {
-          "greeting_message": "",
-          "show_featured_products": true,
-          "featured_products": [],
-          "background_color": "#ffffff",
-          "font_color": "#000000",
-          "agent_invert_activator_colors": true,
-          "button_color": "#000000",
-          "button_icon": "chat_bubble",
-          "button_text": "chat_with_us",
-          "button_horizontal_position": "bottom_right",
-          "button_vertical_position": "lowest",
-          "agent_inherit_fonts": true,
-          "agent_font": "system_ui_n4",
-          "agent_font_size": 14,
-          "agent_activator_font_size": 16,
-          "agent_border_radius": 16
-        }
-      }
-    },
     "color_schemes": {
       "scheme-1": {
         "settings": {

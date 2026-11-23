@@ -461,13 +461,13 @@
         "mobile_menu_primary_Ci6cxw": {
           "type": "mobile_menu_primary",
           "settings": {
-            "menu": "new-mobile-menu-1"
+            "menu": ""
           }
         },
         "mobile_menu_secondary_DMtLMJ": {
           "type": "mobile_menu_secondary",
           "settings": {
-            "menu": "new-mobile-menu-2"
+            "menu": ""
           }
         },
         "mobile_menu_utilities_AANfUk": {
@@ -478,20 +478,11 @@
             "shop_now_style": "primary",
             "chat_label": "Chat Now",
             "chat_link": "",
-            "chat_icon": "shopify://shop_images/Frame_1.svg",
             "call_label": "Call Us",
             "call_link": "tel:+17197516070",
-            "call_icon": "shopify://shop_images/Capa_1.svg",
-            "trust_logo": "shopify://shop_images/ultimate_snooze_logo.png",
             "trust_rating_text": "Trusted by  10,000+ happy Customers",
-            "reviewer_image_1": "shopify://shop_images/Frame_48100783_aa699dbd-b116-4d3a-9309-a879a3364669.png",
-            "reviewer_image_2": "shopify://shop_images/Frame_48100784.png",
-            "reviewer_image_3": "shopify://shop_images/Frame_48100785.png",
-            "trust_item_1_icon": "shopify://shop_images/svg642_13c58cfc-59cb-4bc0-a183-d4897dd8693c.svg",
             "trust_item_1_text": "30-Year Warranty",
-            "trust_item_2_icon": "shopify://shop_images/moneyback_bdfa1ba4-876f-4313-bfe6-79d28b686b77.svg",
             "trust_item_2_text": "100-Night Risk-Free Trial",
-            "trust_item_3_icon": "shopify://shop_images/Frame_2_bea9ba0e-f8c6-4023-8306-e333a28f4df5.svg",
             "trust_item_3_text": "Free Shipping"
           }
         }
@@ -510,7 +501,7 @@
       "settings": {
         "logo_position": "middle-left",
         "mobile_logo_position": "center",
-        "menu": "menu-new-v2",
+        "menu": "",
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
@@ -527,7 +518,6 @@
         "bf_transparent_icon_light": "#0a0a0a",
         "bf_transparent_text_dark": "#ffffff",
         "bf_transparent_icon_dark": "#ffffff",
-        "transparent_logo": "shopify://shop_images/Frame_48101060.png",
         "transparent_logo_width": 200,
         "transparent_text_color": "#ffffff",
         "transparent_icon_color": "#ffffff",
